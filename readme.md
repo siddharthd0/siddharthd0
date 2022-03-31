@@ -1,9 +1,11 @@
 
 </p>
-<div size='20px'> Hi! My name is Siddharth. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hello! I am a high school student & web developer. 
 </div>
 
-Working on Tech Optimum, a non-profit organization dedicated to empower future tech leaders.
+If you would like to view my portfolio, click [here](https://siddharthduggal.com)
+
+I'm currently working on Tech Optimum, a non-profit organization dedicated to empower future tech leaders. It's expected to be released to the public by late April.
 
 Currently learning Java & SQL
 
