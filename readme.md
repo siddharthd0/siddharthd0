@@ -10,6 +10,6 @@ I'm currently working on Tech Optimum, a non-profit organization dedicated to em
 Currently learning Java & SQL
 
 Experienced in JavaScript, HTML5, CSS Designs, Java. 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthd0)](https://github.com/anuraghazra/github-readme-stats)
 
 
