@@ -14,7 +14,8 @@ An experienced web developer.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a junior in high school
-- 🌱 I'm currently working on [Tech Optimum](https://github.com/TechOptimum), a non-profit organization dedicated to empower future tech leaders. It's expected to be released to the public by late April.
+- 🌱 I'm currently working on [Tech Optimum](https://github.com/TechOptimum), a non-profit organization dedicated to empower future tech leaders. It's expected to be released to the public by late April. We are currently looking to increase the size of our team, so if you are interested in web development, [email](mailto:siddharthduggal2013@gmail.com) me
+- 💼 I work at [School Simplified](https://schoolsimplified.org) as a Web Developer 
 - 🤔 Check out my portfolio [here](https://siddharthduggal.com)
 - 📫 Email me at [siddharthduggal2013@gmail.com](mailto:siddharthduggal2013@gmail.com).
 
