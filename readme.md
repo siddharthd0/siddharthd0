@@ -1,7 +1,8 @@
 <h3 title="Title"> Hi 👋, I'm Siddharth!</h3>
 
 <a href="https://www.linkedin.com/in/siddharth-duggal/">
-  <img style="color: blue;" align="left" alt="Siddharths's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img style="color: blue;" align="left" alt="Siddharths's LinkedIn" width="28px" src="./linkedin.svg" />
+  
 </a>
 
 <br />
