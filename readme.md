@@ -11,7 +11,7 @@ Currently learning Java & SQL
 
 Experienced in JavaScript, HTML5, CSS Designs, Java. 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddharthd0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthd0)](https://github.com/anuraghazra/github-readme-stats)
 
 
