@@ -19,10 +19,9 @@ An experienced web developer.
 - 💼 I work at [School Simplified](https://schoolsimplified.org) as a Web Developer 
 - 🤔 Check out my portfolio [here](https://siddharthduggal.com)
 - 📫 Email me at [siddharthduggal2013@gmail.com](mailto:siddharthduggal2013@gmail.com).
-
+![](https://visitor-badge.glitch.me/badge?page_id=siddharthd0)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=siddharthd0&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="siddharthd0's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthd0&count_private=true&theme=radical" alt="siddharthd0" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthd0&count_private=true&theme=radical" alt="siddharthd0" />
-![](https://visitor-badge.glitch.me/badge?page_id=siddharthd0)
