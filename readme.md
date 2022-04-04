@@ -4,7 +4,7 @@
   <img style="color: blue;" align="left" alt="Siddharths's LinkedIn" width="28px" src="./linkedin.svg" />
   
 </a>
-
+![](https://visitor-badge.glitch.me/badge?page_id=siddharthd0)
 <br />
 <br />
 
