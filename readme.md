@@ -4,7 +4,7 @@
   <img style="color: blue;" align="left" alt="Siddharths's LinkedIn" width="28px" src="./linkedin.svg" />
   
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=siddharthd0)
+
 <br />
 <br />
 
@@ -13,7 +13,7 @@ An experienced web developer.
   <img align="right" alt="GIF" src="./madman.gif" alt="me when my code doesnt work" />
 
 **About Me!**
-
+![](https://visitor-badge.glitch.me/badge?page_id=siddharthd0)
 - 👨🏽‍💻 I’m currently a junior in high school
 - 🌱 I'm currently working on [Tech Optimum](https://github.com/TechOptimum), a non-profit organization dedicated to empower future tech leaders. It's expected to be released to the public by late April. We are currently looking to increase the size of our team, so if you are interested in web development, [email](mailto:siddharthduggal2013@gmail.com) me
 - 💼 I work at [School Simplified](https://schoolsimplified.org) as a Web Developer 
