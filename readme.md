@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/siddharth-duggal/">
   <img style="color: blue;" align="left" alt="Siddharths's LinkedIn" width="28px" src="./linkedin.svg" />
+   <a class="buy-coffee" href='https://ko-fi.com/E1E8CCN73' target='_blank'><img height='36' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   
 </a>
 
