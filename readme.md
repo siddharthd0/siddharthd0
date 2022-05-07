@@ -21,7 +21,7 @@
 **In the past, I have...**
 - Co-founded a hosting company, providing services such as Discord bot hosting, Minecraft server hosting, website hosting, and more
 - Owned & operated a company providing services such as, programming Discord bots, creating Minecraft servers, creates websites, and more.
-- Managed a community with 3k+ members
+- Founded & managed a community with 3k+ members
 
 <img src="https://github-readme-stats.vercel.app/api?username=siddharthd0&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="siddharthd0's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthd0&count_private=true&theme=radical" alt="siddharthd0" />
