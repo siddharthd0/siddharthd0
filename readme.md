@@ -16,11 +16,6 @@
 -  Check out my [portfolio](https://siddharthduggal.com)
 -  Contact me @ [siddharthduggal@techoptimum.org](mailto:siddharthduggal@techoptimum.org)
 
-**In the past, I have...**
-- Co-founded a hosting company, providing services such as Discord bot hosting, Minecraft server hosting, website hosting, and more
-- Owned & operated a company providing services such as, programming Discord bots, creating Minecraft servers, creates websites, and more.
-- Founded & managed a community with 3k+ members
-
 ![](https://visitor-badge.glitch.me/badge?page_id=siddharthd0)
 
 <img src="https://github-readme-stats.vercel.app/api?username=siddharthd0&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="siddharthd0's GitHub Stats">
