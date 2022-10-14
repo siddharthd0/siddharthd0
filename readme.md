@@ -8,10 +8,9 @@
 **About Me**<a href="https://www.linkedin.com/in/siddharth-duggal/">
   <img style="color: blue;" align="left" alt="Siddharths's LinkedIn" width="28px" src="./linkedin.svg" />
 </a>
--  I’m currently a junior in high school
--  Building [Tech Optimum](https://github.com/TechOptimum), a non-profit organization dedicated to empower future tech leaders. We are currently looking to increase the size of our team, so if you are interested in web development, [email](mailto:siddharthduggal@techoptimum.org) me
--  I work at [School Simplified](https://schoolsimplified.org) as a Web Developer 
--  Check out my [portfolio](https://siddharthduggal.com)
+-  HS Senior
+-  Building [Tech Optimum](https://github.com/TechOptimum)
+-  Portfolio @ https://siddharthduggal.com
 -  Contact me @ [siddharthduggal@techoptimum.org](mailto:siddharthduggal@techoptimum.org)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=siddharthd0)
