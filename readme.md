@@ -12,7 +12,7 @@
 -  HS Senior
 -  Building [Tech Optimum](https://github.com/TechOptimum)
 -  Portfolio @ https://siddharthduggal.com
--  Contact me @ [siddharthduggal@techoptimum.org](mailto:siddharthduggal@techoptimum.org)
+-  Contact me @ [siddharthduggal2013@gmail.com](mailto:siddharthduggal2013@gmail.com)
 
 
 
