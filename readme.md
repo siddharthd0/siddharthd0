@@ -4,7 +4,7 @@
 
 
 
--  ceo @ [Tech Optimum](https://github.com/TechOptimum)
+-  founder @ [Tech Optimum](https://github.com/TechOptimum)
 -  portfolio @ [siddharthduggal.com](https://siddharthduggal.com)
 -  message @ [siddharth@techoptimum.org](mailto:siddharth@techoptimum.org)
 
