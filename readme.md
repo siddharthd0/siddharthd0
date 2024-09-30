@@ -1,8 +1,8 @@
 
 ## hey, I'm Siddharth.
 currently
--  [Bloon Industries](https://github.com/bloon-ai), building ai tools for students & educators (2023 - present)
+-  building a holding company ai tools
 -  [Tech Optimum](https://github.com/TechOptimum), free ecosystem to learn to code (2022 - present)
 
-email: [siddharth@techoptimum.org](mailto:siddharth@techoptimum.org)
+email: [siddharth@bloon.ai](mailto:siddharth@bloon.ai)
 
